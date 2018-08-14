@@ -75,3 +75,23 @@ h1{
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.theNew {
+    display:block;
+    background-color:cornflowerblue;
+    color:white;
+
+}
+
+.dcRebirth {
+    display:block;
+    background-color:black;
+    color:white;
+
+}
+
+.dcThoughtRobot {
+    display:block;
+    background-color:grey;
+    color:black;
+}
