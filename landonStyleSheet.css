@@ -1,0 +1,77 @@
+.lantern {
+  background-image: url("https://vignette.wikia.nocookie.net/marvel_dc/images/1/13/Emotional_Electromagnetic_Spectrum_0001.jpg/revision/latest?cb=20080522063603&format=original");
+  backgound-repeat:no-reapeat;
+  background-size:cover;
+  padding: 0px;
+  margin: 0px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+
+super{
+ background-image: url("https://wallpapercave.com/wp/wc1679764.jpg");
+ background-color: black;
+
+}
+
+p {
+ font-size: 12pt;
+ font-family: cursive;
+ color: white;
+ font-style: normal;
+ text-align: center;
+ text-decoration: none;
+}
+.super{
+ width: 80%;
+ height: 30%;
+ padding-left: 10px;
+ padding-right: 10px;
+ padding-top: 5px;
+ padding-bottom: 5px;
+}
+.myh1{
+ background-color: none;
+ color: red;
+ text-align: center;
+ text-decoration: underline;
+
+}
+.crypton{
+ width: 70%;
+ height: 70%;
+}
+
+.strenght{
+ text-align: center;
+ text-decoration: underline;
+ background-color: none;
+ color: red;
+}
+
+.fort{
+ text-align: center;
+ text-decoration: underline;
+ background-color: none;
+ color: red;
+}
+
+
+
+h1{
+  text.align: center;
+}
+#DC1Cover{
+  width: 300px;
+
+}
+.DCHistoryBackground{
+  background-image: url(https://img.purch.com/dcu-logo-jpg/w/755/aHR0cDovL21lZGlhLmJlc3RvZm1pY3JvLmNvbS9FL0kvNzg1ODk4L29yaWdpbmFsL0RDVS1Mb2dvLmpwZw==);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
